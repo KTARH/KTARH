@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KTARH
+- 👋 Hi, I’m @Kidist_Ayele
 - 👀 I’m interested in coding and solving problem.
 - 🌱 I’m currently learning computer science engineering.
 - 💞️ I’m looking to collaborate on ...
